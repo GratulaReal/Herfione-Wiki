@@ -1,13 +1,30 @@
 # Table of contents
 
-* [Wiki HERFIONE](README.md)
+* [Bienvenue](README.md)
 
-## Onglet 01
+## Bien débuter
 
-* [Vision and Values](onglet-01/vision-and-values.md)
-* [Meet the Team!](onglet-01/meet-the-team.md)
+* [Page 2](bien-debuter/page-2.md)
 
-## Onglet 02
+## Les Écus
 
-* [Requesting Time Off](onglet-02/requesting-time-off.md)
-* [Filing Expenses](onglet-02/filing-expenses.md)
+* [Qu'est-ce que les Écus ?](les-ecus/quest-ce-que-les-ecus.md)
+* [Obtenir des Écus](les-ecus/obtenir-des-ecus.md)
+* [Dépenser ses Écus](les-ecus/depenser-ses-ecus.md)
+
+## Les Shops
+
+* [Requesting Time Off](les-shops/requesting-time-off.md)
+* [Filing Expenses](les-shops/filing-expenses.md)
+
+## Les métiers
+
+* [Page 1](les-metiers/page-1.md)
+
+## Les commandes
+
+* [Page 3](les-commandes/page-3.md)
+
+## LES RÉCOMPENSES JOURNALIÈRES
+
+* [Page 4](les-recompenses-journalieres/page-4.md)
